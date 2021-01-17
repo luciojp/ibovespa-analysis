@@ -12,6 +12,7 @@ During the pandemic, stock markets lost value around the world. However, a few m
 In addition to this readme.md, you will find:
 - the file 'ibovespa.ipynb', where you will find the analysis algorithms
 - the file 'Actions.xlsx' and 'liquidity.xls' which are the database used
+- Figures generated in the analyzes
 
 # Results
 
