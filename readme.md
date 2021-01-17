@@ -18,3 +18,5 @@ In addition to this readme.md, you will find:
 
 Depending on the sector, we find different behaviors for the companies that make up the ibovespa index or not.
 
+# Medium post
+https://antoniolucio.medium.com/ibovespa-analysis-after-pandemic-a0a38627a223
